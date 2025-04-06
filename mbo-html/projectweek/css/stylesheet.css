@@ -1,0 +1,70 @@
+.foot{
+    height: 100px;
+    width: 100%;
+    background-color: #333333;
+    margin-left: 0px !important;
+    margin-top: 0px;
+    position: absolute;
+}
+.col-lg-8{
+  height: 800px;
+  background-color: #333333;    
+}
+.col-lg-2{
+    background-color: #99FF99;
+    height: 800px;
+}
+.navbar-brand{
+    color: #99FF99 !important;
+}
+.nav-link {
+    color: #99FF99 !important;
+}
+.HoG-white
+{
+    color: #99FF99;
+}
+.HoG-image1
+{
+    background-image: url("../images/arcadeMachine.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;  
+}
+.HoG-image2
+{
+    background-image: url("../images/arcadeMachineMirror.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;  
+}
+.Eastern-txt
+{
+    color: #99FF99;
+}
+.Eastern-image1
+{
+    background-image: url("../images/LoZ.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;  
+}
+.Eastern-image2
+{
+    background-image: url("../images/phantasystar.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;  
+}
+.Western-txt
+{
+    color: #99FF99;
+}
+.Western-image1
+{
+    background-image: url("../images/CoD.jfif");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;  
+}
+.Western-image2
+{
+    background-image: url("../images/RE2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;  
+}

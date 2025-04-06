@@ -1,0 +1,138 @@
+.foot{
+    height: 130px;
+    width: 100%;
+    background-color: #333333;
+    margin-left: 0px !important;
+    margin-top: 0px;
+    position: absolute;
+}
+#mainbar{
+  height: 800px;
+  background-color: #333333;    
+}
+#PKMNmainbar{
+    height: 1000px;
+    background-color: #333333;    
+  }
+#PKMNsidebarleft{
+    background-color:  #99FF99;
+    height: 1000px;
+    background-image: url("../images/PKMNSW.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#PKMNsidebarright{
+    background-color:  #99FF99;
+    height: 1000px;
+    background-image: url("../images/PKMNSH.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.navbar-brand{
+    color: #99FF99 !important;
+}
+.nav-link {
+    color: #99FF99 !important;
+}
+.videoboxPKMN {
+    background-color: grey;
+    height: 600px;
+}
+#PKMNhead {
+    text-align: center;
+    color:  #99FF99; 
+}
+#PKMNtext {
+    text-align: center;
+    color:  #99FF99; 
+}
+#PKMNhead2 {
+    text-align: center;
+    color:  #99FF99;
+    margin-top: 40%;
+}
+#CPsidebarright {
+    background-color:  #99FF99;
+    height: 1000px;
+    background-image: url("../images/CyberPunk.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#CPsidebarleft {
+    background-color:  #99FF99;
+    height: 1000px;
+    background-image: url("../images/Cyperpunk.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#OWsidebarleft {
+    background-color:  #99FF99;
+    height: 1200px;
+    background-image: url("../images/Outerworlds.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#OWsidebarright {
+    background-color:  #99FF99;
+    height: 1200px;
+    background-image: url("../images/Outerworld.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#OWhead {
+    text-align: center;
+    color:  #99FF99;
+    margin-top: 40%;
+}
+#OWtext {
+    text-align: center;
+    color:  #99FF99;
+}
+#OWmainbar {
+    height: 1200px;
+    background-color: #333333;   
+}
+
+#LoUmainbar {
+    height: 1000px;
+  background-color: #333333;
+}
+#LoUsidebarleft {
+    background-color:  #99FF99;
+    height: 1000px;
+    background-image: url("../images/LastofUs.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#LoUsidebarright {
+    background-color:  #99FF99;
+    height: 1000px;
+    background-image: url("../images/LastofMe.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.navbar {
+    background-color: #333333 !important;
+}
+#inhead {
+    text-align: center;
+    color: #99FF99;
+}
+#inText {
+    color: #99FF99; 
+}
+#INsidebar {
+    background-color:  #99FF99;
+    height: 800px;
+    background-image: url("../images/CSR.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#youtubeIMG {
+    height: 100px;
+    margin-left: 20%;
+}
+#facebookIMG {
+    height: 100px;
+    margin-left: 5%;
+}

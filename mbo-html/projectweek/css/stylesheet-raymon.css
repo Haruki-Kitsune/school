@@ -1,0 +1,70 @@
+.foot{
+    height: 100px;
+    width: 100%;
+    background-color: #333333;
+    margin-left: 0px !important;
+    margin-top: 0px;
+    position: absolute;
+}
+.col-lg-ev8{
+  height: 1200px;
+  background-color: #333333;    
+}
+.col-lg-ev2{
+    background-color: #99ff99;
+    height: 1200px;
+}
+.navbar-brand{
+    color: #99ff99 !important;
+}
+.nav-link {
+    color: #99ff99 !important;
+}
+#GGhead {
+    color: #99ff99;
+}
+#GGBanner
+{
+    width:100%;
+    height:15%;
+}
+#GGside
+{
+    height:100%;
+    width: 100%;
+}
+#GGheadm
+{
+    color: #99ff99;
+margin-top: 60px;
+}
+.col-lg-8{
+    height: 800px;
+    background-color: #333333;    
+  }
+.col-lg-2{
+      background-color: #99ff99;
+      height: 800px;
+}
+#EVL{
+    background-color: #99ff99;
+    height:1200;
+}
+#EVR{
+    background-color: #99ff99;
+    height:1200;
+}
+#EVM
+{
+height:1200;
+Background:#333333;
+}
+#OPBanner
+{
+    height:30%;
+    width:100%;
+}
+.console
+{
+    color: #99ff99;
+}
